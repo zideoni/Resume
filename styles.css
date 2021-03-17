@@ -1,0 +1,66 @@
+body {
+    background-color: #edeef7;
+
+}
+
+#myTitle{
+    font-family: gabriola;
+    text-align: left;
+}
+
+
+hr { 
+    border-style: dotted none none none;
+    border-color:#dddddd;
+    border-width: 4px ;
+    width: 6%
+
+}
+
+thead{
+    background-color: #b8b5ff;
+}
+
+.duck{
+    height: 320px;
+    border-radius: 50%;
+}
+
+h1{
+    color: #7868e6;
+    text-align: center;
+}
+
+h3{
+    color: #7868e6;
+    text-align: center;
+}
+
+h2{
+    color: #7868e6;
+    text-align: center;
+}
+
+a{
+    color: #b4aee8;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.hobbies {
+    margin: auto;
+    width: 13%;
+    padding: 10px;
+}
+
+.freeTime {
+    text-align: center;
+}
+
+.tableWidth{
+    width: 40%;
+}
